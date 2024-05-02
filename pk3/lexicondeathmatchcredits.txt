@@ -1,0 +1,19 @@
+Lexicon Deathmatch Authors
+---------------
+
+Lexicon Deathmatch Team
+------------
+Project Lead:
+MiFU
+
+Developers:
+cubebert
+
+Beta Testers:
+cubebert
+
+Lexicon Overseer:
+MiFU
+
+Lead Lexicon Developer:
+Tribeam
