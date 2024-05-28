@@ -2,4 +2,5 @@ Lexicon Deathmatch Authors
 ---------------
 DWANGO1: DWANGO
 DWANGO2: DWANGO
+DWANGO3: DWANGO
 

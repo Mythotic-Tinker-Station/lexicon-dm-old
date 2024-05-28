@@ -8,3 +8,7 @@ DW01_ACTORALT_1 = "PlasmaRifle";
 // DWANGO2
 DW02_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
 DW02_ACTORALT_1 = "PlasmaRifle";
+
+// DWANGO3
+DW03_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
+DW03_ACTORALT_1 = "PlasmaRifle";

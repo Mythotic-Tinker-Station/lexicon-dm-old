@@ -1,2 +1,3 @@
 include "mapinfo/DWANGO1.txt" // DWANGO1.wad
 include "mapinfo/DWANGO2.txt" // DWANGO2.wad
+include "mapinfo/DWANGO3.txt" // DWANGO3.wad
