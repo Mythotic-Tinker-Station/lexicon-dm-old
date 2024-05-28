@@ -1,0 +1,2 @@
+// DWANGO1
+generator Lexicon_DW01_PlasmaBall	PlasmaScorch
