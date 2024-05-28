@@ -1,0 +1,6 @@
+[default]
+
+// Custom actors for Lexicon Deathmatch mapsets
+// DWANGO1
+DW01_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
+DW01_ACTORALT_1 = "PlasmaRifle";
