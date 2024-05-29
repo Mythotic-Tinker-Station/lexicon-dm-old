@@ -1,2 +1,2 @@
 // DWANGO2
-texture DW020446 range DW020448 tics 8
+texture DW020446 range DW020448 tics 8 allowdecals
