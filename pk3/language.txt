@@ -27,3 +27,11 @@ DW06_ACTORALT_1 = "Shotgun";
 DW06_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
 DW06_ACTORALT_2 = "PlasmaRifle";
 DW06_ACTOR_PISTOL = "Lexicon_DW06_Pistol";
+
+// DWANGO7
+DW07_ACTOR_1 = "Lexicon_DW07_SuperShotgun";
+DW07_ACTORALT_1 = "SuperShotgun";
+DW07_ACTOR_2 = "Lexicon_DW07_Shotgun";
+DW07_ACTORALT_2 = "Shotgun";
+DW07_ACTOR_3 = "Lexicon_DW01_PlasmaRifle";
+DW07_ACTORALT_3 = "PlasmaRifle";

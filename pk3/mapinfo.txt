@@ -4,3 +4,4 @@ include "mapinfo/DWANGO3.txt" // DWANGO3.wad
 include "mapinfo/DWANGO4.txt" // DWANGO4.wad
 include "mapinfo/DWANGO5.txt" // DWANGO5.wad
 include "mapinfo/DWANGO6.txt" // DWANGO6.wad
+include "mapinfo/DWANGO7.txt" // DWANGO7.wad
