@@ -1,2 +1,10 @@
 // DWANGO1
 generator Lexicon_DW01_PlasmaBall	PlasmaScorch
+
+// DWANGO6
+generator Lexicon_DW06_Pistol	BulletChip
+generator Lexicon_DW06_Shotgun	BulletChip
+
+// DWANGO7
+generator Lexicon_DW07_Shotgun	BulletChip
+generator Lexicon_DW07_SuperShotgun	BulletChip

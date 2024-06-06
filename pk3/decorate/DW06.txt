@@ -1,0 +1,85 @@
+ACTOR Lexicon_DW06_Pistol : DoomWeapon
+{
+	Weapon.SelectionOrder 1900
+	Weapon.AmmoUse 1
+	Weapon.AmmoGive 20
+	Weapon.AmmoType "Clip"
+	Weapon.SlotNumber 2
+	Obituary "$OB_MPPISTOL"
+	+WEAPON.WIMPY_WEAPON
+	+WEAPON.ALLOW_WITH_RESPAWN_INVUL
+	Inventory.Pickupmessage "$PICKUP_PISTOL_DROPPED"
+	Tag "$TAG_PISTOL"
+	Radius 20
+	Height 16
+	States
+	{
+	Ready:
+		PISG A 1 A_WeaponReady
+		Loop
+	Deselect:
+		PISG A 1 A_Lower
+		Loop
+	Select:
+		PISG A 1 A_Raise
+		Loop
+	Fire:
+		PISG A 4
+		PISG B 0 A_FireBullets(5.6,0,1,5)
+		PISG B 0 A_PlaySound("DW06/DSPISTOL",CHAN_WEAPON)
+		PISG B 6 A_GunFlash
+		PISG C 4
+		PISG B 5 A_ReFire
+		Goto Ready
+	Flash:
+		PISF A 7 Bright A_Light1
+		Goto LightDone
+		PISF A 7 Bright A_Light1
+		Goto LightDone
+ 	Spawn:
+		PIST A -1
+		Stop
+	}
+}
+
+ACTOR Lexicon_DW06_Shotgun : DoomWeapon
+{
+	Weapon.SelectionOrder 1300
+	Weapon.AmmoUse 1
+	Weapon.AmmoGive 8
+	Weapon.AmmoType "Shell"
+	Weapon.SlotNumber 3
+	Inventory.PickupMessage "$GOTSHOTGUN"
+	Obituary "$OB_MPSHOTGUN"
+	Tag "$TAG_SHOTGUN"
+	States
+	{
+	Ready:
+		SHTG A 1 A_WeaponReady
+		Loop
+	Deselect:
+		SHTG A 1 A_Lower
+		Loop
+	Select:
+		SHTG A 1 A_Raise
+		Loop
+	Fire:
+		SHTG A 3
+		SHTG A 0 A_FireBullets(5.6,0,7,5)
+		SHTG A 0 A_PlaySound("DW06/DSSHOTGN",CHAN_WEAPON)
+		SHTG A 7 A_GunFlash
+		SHTG BC 5
+		SHTG D 4
+		SHTG CB 5
+		SHTG A 3
+		SHTG A 7 A_ReFire
+		Goto Ready
+	Flash:
+		SHTF A 4 Bright A_Light1
+		SHTF B 3 Bright A_Light2
+		Goto LightDone
+	Spawn:
+		SHOT A -1
+		Stop
+	}
+}
