@@ -1,2 +1,14 @@
 // DWANGO2
 texture DW020446 range DW020448 tics 8 allowdecals
+
+// DWANGO11
+switch DW110285 on pic DW110325 tics 0
+switch DW110286 on pic DW110326 tics 0
+switch DW110292 on pic DW110332 tics 0
+switch DW110294 on pic DW110334 tics 0
+switch DW110303 on pic DW110343 tics 0
+switch DW110314 on pic DW110354 tics 0
+switch DW110318 on pic DW110358 tics 0
+
+// DWANGO12
+texture DW120007 range DW120010 tics 8

@@ -1,1 +1,4 @@
 #include "gldefs/DW01.txt" // DWANGO1
+#include "gldefs/DW10.txt" // DWANGO10
+#include "gldefs/DW11.txt" // DWANGO11
+#include "gldefs/DW12.txt" // DWANGO12

@@ -24,8 +24,10 @@ DW05_ACTORALT_1 = "PlasmaRifle";
 // DWANGO6
 DW06_ACTOR_1 = "Lexicon_DW06_Shotgun";
 DW06_ACTORALT_1 = "Shotgun";
-DW06_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
-DW06_ACTORALT_2 = "PlasmaRifle";
+DW06_ACTOR_2 = "Lexicon_DW06_Chaingun";
+DW06_ACTORALT_2 = "Chaingun";
+DW06_ACTOR_3 = "Lexicon_DW01_PlasmaRifle";
+DW06_ACTORALT_3 = "PlasmaRifle";
 DW06_ACTOR_PISTOL = "Lexicon_DW06_Pistol";
 
 // DWANGO7
@@ -35,3 +37,33 @@ DW07_ACTOR_2 = "Lexicon_DW07_Shotgun";
 DW07_ACTORALT_2 = "Shotgun";
 DW07_ACTOR_3 = "Lexicon_DW01_PlasmaRifle";
 DW07_ACTORALT_3 = "PlasmaRifle";
+
+// DWANGO8
+DW08_ACTOR_1 = "Lexicon_DW06_Shotgun";
+DW08_ACTORALT_1 = "Shotgun";
+DW08_ACTOR_2 = "Lexicon_DW06_Chaingun";
+DW08_ACTORALT_2 = "Chaingun";
+DW08_ACTOR_PISTOL = "Lexicon_DW06_Pistol";
+
+// DWANGO10
+DW10_ACTOR_1 = "Lexicon_DW07_Shotgun";
+DW10_ACTORALT_1 = "Shotgun";
+DW10_ACTOR_2 = "Lexicon_DW06_Chaingun";
+DW10_ACTORALT_2 = "Chaingun";
+DW10_ACTOR_3 = "Lexicon_DW10_PlasmaRifle";
+DW10_ACTORALT_3 = "PlasmaRifle";
+DW10_ACTOR_PISTOL = "Lexicon_DW06_Pistol";
+
+// DWANGO11
+DW11_ACTOR_1 = "Lexicon_DW11_GibbedMarine";
+DW11_ACTOR_2 = "Lexicon_DW11_DeadMarine";
+DW11_ACTOR_3 = "Lexicon_DW11_PlasmaRifle";
+DW11_ACTORALT_3 = "PlasmaRifle";
+DW11_ACTOR_4 = "Lexicon_DW11_BFG9000";
+DW11_ACTORALT_4 = "BFG9000";
+
+// DWANGO12
+DW12_ACTOR_1 = "Lexicon_DW12_PlasmaRifle";
+DW12_ACTORALT_1 = "PlasmaRifle";
+DW12_ACTOR_2 = "Lexicon_DW12_BFG9000";
+DW12_ACTORALT_2 = "BFG9000";
