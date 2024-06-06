@@ -20,3 +20,10 @@ DW04_ACTORALT_1 = "PlasmaRifle";
 // DWANGO5
 DW05_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
 DW05_ACTORALT_1 = "PlasmaRifle";
+
+// DWANGO6
+DW06_ACTOR_1 = "Lexicon_DW06_Shotgun";
+DW06_ACTORALT_1 = "Shotgun";
+DW06_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
+DW06_ACTORALT_2 = "PlasmaRifle";
+DW06_ACTOR_PISTOL = "Lexicon_DW06_Pistol";
