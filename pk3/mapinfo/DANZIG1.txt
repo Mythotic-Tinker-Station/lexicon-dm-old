@@ -1,4 +1,4 @@
-// DANZIG Mapinfo
+// DANZIG1 Mapinfo
 
 map DZG111 lookup "HUSTR_11"
 {

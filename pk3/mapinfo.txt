@@ -1,5 +1,5 @@
 include "mapinfo/DANZIG1.txt" // DANZIG1.wad
-//include "mapinfo/DANZIG2.txt" // DANZIG2.wad
+include "mapinfo/DANZIG2.txt" // DANZIG2.wad
 include "mapinfo/DWANGO1.txt" // DWANGO1.wad
 include "mapinfo/DWANGO2.txt" // DWANGO2.wad
 include "mapinfo/DWANGO3.txt" // DWANGO3.wad
