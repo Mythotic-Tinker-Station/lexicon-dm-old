@@ -10,3 +10,4 @@ include "mapinfo/DWANGO10.txt" // DWANGO10.wad
 include "mapinfo/DWANGO11.txt" // DWANGO11.wad
 include "mapinfo/DWANGO12.txt" // DWANGO12.wad
 include "mapinfo/#1DWANGO.txt" // #1DWANGO.wad
+include "mapinfo/DWANGO!.txt" // DWANGO!.wad
