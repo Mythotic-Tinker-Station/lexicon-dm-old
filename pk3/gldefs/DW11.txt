@@ -48,6 +48,18 @@ object Lexicon_DW11_PlasmaBall
     frame LZ00K { light Lexicon_DW11_PLASMA_X4 }
 }
 
+object Lexicon_DW11_ArachnotronPlasma
+{
+    frame APLSA { light ARACHPLAS }
+    frame APLSB { light ARACHPLAS }
+
+    frame APBXA { light ARACHPLAS_X1 }
+    frame APBXB { light ARACHPLAS_X2 }
+    frame APBXC { light ARACHPLAS_X2 }
+    frame APBXD { light ARACHPLAS_X3 }
+    frame APBXE { light ARACHPLAS_X4 }
+}
+
 pointlight Lexicon_DW11_BFGBALL
 {
     color 0.0 0.0 1.0

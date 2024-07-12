@@ -92,3 +92,7 @@ ACTOR Lexicon_DW07_SuperShotgun : DoomWeapon
 		Stop
 	}
 }
+
+ACTOR Lexicon_DW07_ShotgunGuy : ShotgunGuy  { AttackSound "DW07/DSSHOTGN" DropItem "Lexicon_DW07_Shotgun" }
+ACTOR Lexicon_DW07_ChaingunGuy : ChaingunGuy  { AttackSound "DW07/DSSHOTGN" DropItem "Chaingun" }
+ACTOR Lexicon_DW07_SpiderMastermind : SpiderMastermind  { AttackSound "DW07/DSSHOTGN" }
