@@ -13,3 +13,18 @@ switch DW110318 on pic DW110358 tics 0
 
 // DWANGO12
 texture DW120007 range DW120010 tics 8
+
+// TokeDM
+texture TKDM0033 range TKDM0036 tics 8 allowdecals
+texture TKDM0037 range TKDM0040 tics 8 allowdecals
+texture TKDM0102 range TKDM0105 tics 8
+texture TKDM0256 range TKDM0258 tics 8 allowdecals
+texture TKDM0407 range TKDM0410 tics 8
+flat TKDM0007 range TKDM0010 tics 8
+switch TKDM0312 on pic TKDM0352 tics 0
+switch TKDM0321 on pic TKDM0361 tics 0
+switch TKDM0338 on pic TKDM0378 tics 0
+switch TKDM0340 on pic TKDM0380 tics 0
+switch TKDM0341 on pic TKDM0381 tics 0
+switch TKDM0342 on pic TKDM0382 tics 0
+switch TKDM0346 on pic TKDM0386 tics 0

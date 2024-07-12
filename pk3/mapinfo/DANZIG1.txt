@@ -1,6 +1,6 @@
 // DANZIG1 Mapinfo
 
-map DZG111 lookup "HUSTR_11"
+map DZG111 "DANZIG1 Map 11"
 {
 	titlepatch = "CWILV10"
 	next = "DZG112"
@@ -9,7 +9,7 @@ map DZG111 lookup "HUSTR_11"
 	music = "$MUSIC_STLKS2"
 }
 
-map DZG112 lookup "HUSTR_12"
+map DZG112 "DANZIG1 Map 12"
 {
 	titlepatch = "CWILV11"
 	next = "DZG113"
@@ -18,7 +18,7 @@ map DZG112 lookup "HUSTR_12"
 	music = "$MUSIC_THEDA2"
 }
 
-map DZG113 lookup "HUSTR_13"
+map DZG113 "DANZIG1 Map 13"
 {
 	titlepatch = "CWILV12"
 	next = "DZG114"
@@ -27,7 +27,7 @@ map DZG113 lookup "HUSTR_13"
 	music = "$MUSIC_DOOM2"
 }
 
-map DZG114 lookup "HUSTR_14"
+map DZG114 "DANZIG1 Map 14"
 {
 	titlepatch = "CWILV13"
 	next = "DZG115"
@@ -36,7 +36,7 @@ map DZG114 lookup "HUSTR_14"
 	music = "$MUSIC_DDTBL2"
 }
 
-map DZG115 lookup "HUSTR_15"
+map DZG115 "DANZIG1 Map 15"
 {
 	titlepatch = "CWILV14"
 	next = "DZG131"
@@ -45,7 +45,7 @@ map DZG115 lookup "HUSTR_15"
 	music = "$MUSIC_RUNNI2"
 }
 
-map DZG131 lookup "HUSTR_31"
+map DZG131 "DANZIG1 Map 31"
 {
 	titlepatch = "CWILV30"
 	next = "DZG132"
@@ -54,7 +54,7 @@ map DZG131 lookup "HUSTR_31"
 	music = "$MUSIC_EVIL"
 }
 
-map DZG132 lookup "HUSTR_32"
+map DZG132 "DANZIG1 Map 32"
 {
 	titlepatch = "CWILV31"
 	next = "VR"
