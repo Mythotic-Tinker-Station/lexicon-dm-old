@@ -129,3 +129,20 @@ ACTOR Lexicon_DW06_Chaingun : DoomWeapon
 		Stop
 	}
 }
+
+ACTOR Lexicon_DW06_Zombieman : Zombieman  
+{
+	AttackSound "DW06/DSPISTOL"
+	States
+	{
+	Missile:
+		POSS E 10 A_FaceTarget
+		POSS F 8 A_CustomBulletAttack(22.5, 0, 1, random(1,5) * 3, "BulletPuff", 0, CBAF_NORANDOM)
+		POSS E 8
+		goto See
+	}
+}
+
+ACTOR Lexicon_DW06_ShotgunGuy : ShotgunGuy  { AttackSound "DW06/DSSHOTGN" DropItem "Lexicon_DW06_Shotgun" }
+ACTOR Lexicon_DW06_ChaingunGuy : ChaingunGuy  { AttackSound "DW06/DSSHOTGN" DropItem "Lexicon_DW06_Chaingun" }
+ACTOR Lexicon_DW06_SpiderMastermind : SpiderMastermind  { AttackSound "DW06/DSSHOTGN" }

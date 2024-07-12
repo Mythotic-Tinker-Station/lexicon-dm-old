@@ -1,10 +1,16 @@
 // DWANGO1
+generator Lexicon_DW01_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_DW01_PlasmaBall	PlasmaScorch
 
 // DWANGO6
 generator Lexicon_DW06_Pistol	BulletChip
 generator Lexicon_DW06_Shotgun	BulletChip
 generator Lexicon_DW06_Chaingun	BulletChip
+
+generator Lexicon_DW06_ZombieMan	BulletChip
+generator Lexicon_DW06_ShotgunGuy	BulletChip
+generator Lexicon_DW06_ChaingunGuy	BulletChip
+generator Lexicon_DW06_SpiderMastermind	BulletChip
 
 // DWANGO7
 generator Lexicon_DW07_Shotgun	BulletChip

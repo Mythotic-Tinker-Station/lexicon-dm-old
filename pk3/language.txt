@@ -2,8 +2,10 @@
 
 // Custom actors for Lexicon Deathmatch mapsets
 // DWANGO1
-DW01_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
-DW01_ACTORALT_1 = "PlasmaRifle";
+DW01_ACTOR_1 = "Lexicon_DW01_Arachnotron";
+DW01_ACTORALT_1 = "Arachnotron";
+DW01_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
+DW01_ACTORALT_2 = "PlasmaRifle";
 DW01_WEAPON_8 = "Lexicon_DW01_PlasmaRifle";
 DW01_MAPSET_AUTH = "DWANGO Team";
 DW01_MAPSET_CUST = "Y";
@@ -12,9 +14,11 @@ DW01_MAPSET_MAPS = "11";
 DW01_MAPSET_TTLE = "DWANGO1";
 
 // DWANGO2
-DW02_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
-DW02_ACTORALT_1 = "PlasmaRifle";
-DW02_WEAPON_7 = "Lexicon_DW01_PlasmaRifle";
+DW02_ACTOR_1 = "Lexicon_DW01_Arachnotron";
+DW02_ACTORALT_1 = "Arachnotron";
+DW02_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
+DW02_ACTORALT_2 = "PlasmaRifle";
+DW02_WEAPON_8 = "Lexicon_DW01_PlasmaRifle";
 DW02_MAPSET_AUTH = "DWANGO Team";
 DW02_MAPSET_CUST = "Y";
 DW02_MAPSET_DATE = "1995";
@@ -22,8 +26,10 @@ DW02_MAPSET_MAPS = "11";
 DW02_MAPSET_TTLE = "DWANGO2";
 
 // DWANGO3
-DW03_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
-DW03_ACTORALT_1 = "PlasmaRifle";
+DW03_ACTOR_1 = "Lexicon_DW01_Arachnotron";
+DW03_ACTORALT_1 = "Arachnotron";
+DW03_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
+DW03_ACTORALT_2 = "PlasmaRifle";
 DW03_WEAPON_8 = "Lexicon_DW01_PlasmaRifle";
 DW03_MAPSET_AUTH = "DWANGO Team";
 DW03_MAPSET_CUST = "Y";
@@ -32,8 +38,10 @@ DW03_MAPSET_MAPS = "14";
 DW03_MAPSET_TTLE = "DWANGO3";
 
 // DWANGO4
-DW04_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
-DW04_ACTORALT_1 = "PlasmaRifle";
+DW04_ACTOR_1 = "Lexicon_DW01_Arachnotron";
+DW04_ACTORALT_1 = "Arachnotron";
+DW04_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
+DW04_ACTORALT_2 = "PlasmaRifle";
 DW04_WEAPON_8 = "Lexicon_DW01_PlasmaRifle";
 DW04_MAPSET_AUTH = "DWANGO Team";
 DW04_MAPSET_CUST = "Y";
@@ -42,8 +50,10 @@ DW04_MAPSET_MAPS = "16";
 DW04_MAPSET_TTLE = "DWANGO4";
 
 // DWANGO5
-DW05_ACTOR_1 = "Lexicon_DW01_PlasmaRifle";
-DW05_ACTORALT_1 = "PlasmaRifle";
+DW05_ACTOR_1 = "Lexicon_DW01_Arachnotron";
+DW05_ACTORALT_1 = "Arachnotron";
+DW05_ACTOR_2 = "Lexicon_DW01_PlasmaRifle";
+DW05_ACTORALT_2 = "PlasmaRifle";
 DW05_WEAPON_8 = "Lexicon_DW01_PlasmaRifle";
 DW05_MAPSET_AUTH = "DWANGO Team";
 DW05_MAPSET_CUST = "Y";
@@ -52,12 +62,22 @@ DW05_MAPSET_MAPS = "24";
 DW05_MAPSET_TTLE = "DWANGO5";
 
 // DWANGO6
-DW06_ACTOR_1 = "Lexicon_DW06_Shotgun";
-DW06_ACTORALT_1 = "Shotgun";
-DW06_ACTOR_2 = "Lexicon_DW06_Chaingun";
-DW06_ACTORALT_2 = "Chaingun";
-DW06_ACTOR_3 = "Lexicon_DW01_PlasmaRifle";
-DW06_ACTORALT_3 = "PlasmaRifle";
+DW06_ACTOR_1 = "Lexicon_DW06_SpiderMastermind";
+DW06_ACTORALT_1 = "SpiderMastermind";
+DW06_ACTOR_2 = "Lexicon_DW06_ShotgunGuy";
+DW06_ACTORALT_2 = "ShotgunGuy";
+DW06_ACTOR_3 = "Lexicon_DW06_ChaingunGuy";
+DW06_ACTORALT_3 = "ChaingunGuy";
+DW01_ACTOR_4 = "Lexicon_DW01_Arachnotron";
+DW01_ACTORALT_4 = "Arachnotron";
+DW06_ACTOR_5 = "Lexicon_DW06_Shotgun";
+DW06_ACTORALT_5 = "Shotgun";
+DW06_ACTOR_6 = "Lexicon_DW06_Chaingun";
+DW06_ACTORALT_6 = "Chaingun";
+DW06_ACTOR_7 = "Lexicon_DW01_PlasmaRifle";
+DW06_ACTORALT_7 = "PlasmaRifle";
+DW06_ACTOR_8 = "Lexicon_DW06_Zombieman";
+DW06_ACTORALT_8 = "Zombieman";
 DW06_WEAPON_2 = "Lexicon_DW06_Pistol";
 DW06_WEAPON_4 = "Lexicon_DW06_Shotgun";
 DW06_WEAPON_8 = "Lexicon_DW01_PlasmaRifle";
