@@ -1,5 +1,10 @@
-// Use this file as a template for any MAPINFO entries
-// that you want to write.
+// WANG Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
 
 map WANG01 "WANG Map 1"
 {

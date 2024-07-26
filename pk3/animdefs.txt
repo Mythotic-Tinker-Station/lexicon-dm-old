@@ -1,3 +1,6 @@
+// Durango
+texture DUGO0438 range DUGO0441 tics 8
+
 // DWANGO2
 texture DW020446 range DW020448 tics 8 allowdecals
 texture DW020455 range DW020458 tics 8 allowdecals
