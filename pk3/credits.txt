@@ -15,6 +15,7 @@ DWANGO10: DWANGO Team
 DWANGO11: DWANGO Team
 DWANGO12: DWANGO Team
 #1DWANGO: DWANGO Team
+DWANGOX: DWANGO Team
 DWANGO!: DWANGO Team
 TokeDM: Dylan McIntosh (Toke)
 WANG: Argent Agent, Decay, HeavenWraith, Razgriz, Synami

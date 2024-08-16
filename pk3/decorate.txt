@@ -4,3 +4,4 @@
 #include "decorate/DW10.txt" // DWANGO10
 #include "decorate/DW11.txt" // DWANGO11
 #include "decorate/DW12.txt" // DWANGO12
+#include "decorate/DW0X.txt" // DWANGOX

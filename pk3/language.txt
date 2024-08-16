@@ -205,6 +205,29 @@ DW12_MAPSET_DATE = "1997";
 DW12_MAPSET_MAPS = "28";
 DW12_MAPSET_TTLE = "DWANGO12";
 
+// DWANGOX
+DW0X_ACTOR_1 = "Lexicon_DW0X_ShotgunGuy";
+DW0X_ACTORALT_1 = "ShotgunGuy";
+DW0X_ACTOR_2 = "Lexicon_DW0X_ChaingunGuy";
+DW0X_ACTORALT_2 = "ChaingunGuy";
+DW0X_ACTOR_3 = "Lexicon_DW0X_Arachnotron";
+DW0X_ACTORALT_3 = "Arachnotron";
+DW0X_ACTOR_4 = "Lexicon_DW0X_SuperShotgun";
+DW0X_ACTORALT_4 = "SuperShotgun";
+DW0X_ACTOR_5 = "Lexicon_DW0X_Shotgun";
+DW0X_ACTORALT_5 = "Shotgun";
+DW0X_ACTOR_6 = "Lexicon_DW0X_RocketLauncher";
+DW0X_ACTORALT_6 = "RocketLauncher";
+DW0X_ACTOR_7 = "Lexicon_DW0X_PlasmaRifle";
+DW0X_ACTORALT_7 = "PlasmaRifle";
+DW0X_ACTOR_8 = "Lexicon_DW0X_BFG9000";
+DW0X_ACTORALT_8 = "BFG9000";
+DW0X_MAPSET_AUTH = "DWANGO Team";
+DW0X_MAPSET_CUST = "Y";
+DW0X_MAPSET_DATE = "1995";
+DW0X_MAPSET_MAPS = "15";
+DW0X_MAPSET_TTLE = "DWANGOX";
+
 // DWANGO!
 DWEX_MAPSET_AUTH = "DWANGO Team";
 DWEX_MAPSET_CUST = "N";

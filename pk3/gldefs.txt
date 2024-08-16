@@ -4,3 +4,4 @@
 #include "gldefs/DW10.txt" // DWANGO10
 #include "gldefs/DW11.txt" // DWANGO11
 #include "gldefs/DW12.txt" // DWANGO12
+#include "gldefs/DW0X.txt" // DWANGOX
